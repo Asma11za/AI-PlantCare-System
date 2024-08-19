@@ -1,6 +1,6 @@
 <h1> PlantCare: Intelligent Plant Health Diagnosis and Optimized System using SW-Prolog </h1> 
 
-<img width="400" alt="Picture5" src="https://github.com/user-attachments/assets/b3d445d2-0f5d-4161-8cc3-06611fe0c463">
+<img width="300" alt="Picture5" src="https://github.com/user-attachments/assets/b3d445d2-0f5d-4161-8cc3-06611fe0c463">
 
 <h2> GUI Prototype </h2>
 <img width="502" alt="Picture1" src="https://github.com/user-attachments/assets/de1a33e6-de61-4abe-9d87-a88230b4844c">
