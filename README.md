@@ -1,4 +1,4 @@
-<h1> AI Plant Care Chatbot using SW-Prolog </h1> 
+<h1> PlantCare: Intelligent Plant Health Diagnosis and Optimized System using SW-Prolog </h1> 
 
 <h2> GUI Prototype </h2>
 <img width="502" alt="Picture1" src="https://github.com/user-attachments/assets/de1a33e6-de61-4abe-9d87-a88230b4844c">
