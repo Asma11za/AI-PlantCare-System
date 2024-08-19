@@ -13,7 +13,8 @@ This project proposes a PlantCare system using SW-Prolog software. The proposed 
 
 - SWI-Prolog
 <h2> System's Flowchart </h2>
-<img width="502" alt="Picture6" src="https://github.com/user-attachments/assets/1831ca4d-e06a-4594-a48e-825f48808f2d">
+<img width="502" alt="Picture6" src="https://github.com/user-attachments/assets/7eed51bd-0184-4271-be2c-98a3e3131695">
+![image](https://github.com/user-attachments/assets/7eed51bd-0184-4271-be2c-98a3e3131695)
 
 <h2> System's use case diagram </h2>
 <img width="502" alt="Picture5" src="https://github.com/user-attachments/assets/7b5de9f6-c3e1-471f-a689-410d8e6abb46">
